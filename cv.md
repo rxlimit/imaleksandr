@@ -50,7 +50,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 - Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
 - Built future talent pipelines by training, mentoring, and interviewing students
 
-### Avalon, Team/Tech Lead .NET, 2006/2010
+### Avalon, Senior .NET Engineer, 2006/2010
 
 - Led the design, development, and citywide deployment of a major billing system for cellular, internet, and utility payments, successfully implemented across multiple retail locations (C#, Azure, MSSQL, WFP, ASP.NET, WinForms)
 - Established a robust and highly available system architecture (including microservices principles), ensuring seamless integration with diverse partner services and hardware (POS terminals, scanners, etc.)
