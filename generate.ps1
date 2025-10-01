@@ -1,0 +1,1 @@
+pandoc -o AleksandrSitnikov2025.pdf ./cv.md 
