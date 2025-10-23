@@ -12,7 +12,7 @@ header-includes:
   - \posttitle{\end{flushleft}\vspace{-3em}} 
 ---
 
-Email: imaleksandr@outlook.com; Phone: +52 998 493 7649; +7 927 760 7222 (whatsapp); Location: Mexico, Cancun;
+Email: imaleksandr@outlook.com; Phone: +52 998 493 7649; Location: Mexico, Cancun;
 
 ## Background/Focus
 
