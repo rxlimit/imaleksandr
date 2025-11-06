@@ -21,7 +21,8 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 ## Summary
 
 - 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, CQRS, DDD, PowerShell)
-- Cloud: Azure
+- Additional experience with Go and Python
+- Cloud: Azure, AWS
 - Database: MS-SQL
 - Frontend: Angular, TypeScript
 - Architecture: Microservices, Event-driven, Clean Architecture
@@ -52,7 +53,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ### Avalon, Senior .NET Engineer, 2006/2010
 
-- Led the design, development, and citywide deployment of a major billing system for cellular, internet, and utility payments, successfully implemented across multiple retail locations (C#, Azure, MSSQL, WFP, ASP.NET, WinForms)
+- Led the design, development, and citywide deployment of a major billing system for cellular, internet, and utility payments, successfully implemented across multiple retail locations (C#, Azure, MSSQL, WPF, ASP.NET, WinForms)
 - Established a robust and highly available system architecture (including microservices principles), ensuring seamless integration with diverse partner services and hardware (POS terminals, scanners, etc.)
 - Built and mentored a high-performing development team by successfully selecting and onboarding qualified engineers; improved operational efficiency by creating internal documentation and automating recurring processes
 - Ensured project transparency and goal alignment through regular progress updates to senior management; successfully translated client requirements and feedback into actionable, high-impact features (e.g., intuitive UI, online accounting system)
