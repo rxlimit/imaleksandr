@@ -20,7 +20,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ## Summary
 
-- 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, CQRS, DDD, PowerShell)
+- 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, LINQ, CQRS, DDD, PowerShell)
 - Additional experience with Go and Python
 - Cloud: Azure, AWS
 - Database: MS-SQL
@@ -33,22 +33,22 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ## Experience
 
-### Largest producer of aluminum, Team Lead .NET, 2022 - Now
+### RUSAL, Team Lead .NET, 2022 - Now
 
-- Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, Angular, CQRS, Event-driven, Kafka, DDD)
+- Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, LINQ, CQRS, Event-driven, Kafka, DDD, VSTO, Angular)
 - Improved project delivery and team efficiency through effective performance management and accurate resource estimation
 - Built a strong engineering team by conducting technical interviews and selecting qualified specialists
 
 ### Moonflat, CTO, 2015/2017
 
-- Delivered reliable performance and scalability by designing system architecture and developing core software solutions (C#, ASP.NET, MSSQL, EF, NUnit, jQuery, Bootstrap, Dapper, CQRS)
+- Delivered reliable performance and scalability by designing system architecture and developing core software solutions (C#, ASP.NET, MSSQL, EF, NUnit, jQuery, Bootstrap, Dapper, CQRS, LINQ)
 - Successfully launched a short-term housing rental platform
 - Expanded market presence by establishing business operations and building an effective team
 - Increased customer acquisition through targeted marketing and advertising campaigns
 
 ### EPAM, Senior .NET Developer, 2010/2022
 
-- Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
+- Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, LINQ, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
 - Built future talent pipelines by training, mentoring, and interviewing students
 
 ### Avalon, Senior .NET Engineer, 2006/2010
