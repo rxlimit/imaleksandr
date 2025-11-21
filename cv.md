@@ -23,6 +23,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 - 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, LINQ, CQRS, DDD, PowerShell)
 - Additional experience with Go and Python
 - Cloud: Azure, AWS
+- AI tools: Cursor, Claude
 - Database: MS-SQL
 - Frontend: Angular, TypeScript
 - Architecture: Microservices, Event-driven, Clean Architecture
