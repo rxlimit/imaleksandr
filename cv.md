@@ -34,7 +34,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ## Experience
 
-### RUSAL, Team Lead .NET, 2022 - Now
+### RUSAL, Senior .NET Developer, 2022 - Now
 
 - Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, LINQ, CQRS, Event-driven, Kafka, DDD, VSTO, Angular)
 - Improved project delivery and team efficiency through effective performance management and accurate resource estimation
@@ -52,7 +52,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 - Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, LINQ, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
 - Built future talent pipelines by training, mentoring, and interviewing students
 
-### Avalon, Senior .NET Engineer, 2006/2010
+### Avalon, Senior .NET Developer, 2006/2010
 
 - Led the design, development, and citywide deployment of a major billing system for cellular, internet, and utility payments, successfully implemented across multiple retail locations (C#, Azure, MSSQL, WPF, ASP.NET, WinForms)
 - Established a robust and highly available system architecture (including microservices principles), ensuring seamless integration with diverse partner services and hardware (POS terminals, scanners, etc.)
