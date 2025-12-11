@@ -16,7 +16,7 @@ Email: imaleksandr@outlook.com; Phone: +52 998 493 7649; Location: Mexico, Cancu
 
 ## Background/Focus
 
-Senior .NET Developer with 19+ years developing, architecting, and deploying enterprise-level applications. Expert proficiency in C#, ASP.NET, Web API, and SQL Server, along with deep expertise in software architecture, microservices, and system integration.
+Senior .NET Developer with 19+ years developing, architecting, and deploying enterprise-level applications. Expert proficiency in C#, ASP.NET, Web API, RESTful APIs, and SQL Server, along with deep expertise in software architecture, microservices, and system integration.
 
 ## Summary
 
@@ -29,6 +29,7 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 - Architecture: Microservices, Event-driven, Clean Architecture
 - Message Brokers: Apache Kafka, RabbitMQ
 - Experience with TDD and automation testing (NUnit, xUnit)
+- Extensive experience designing and implementing RESTful APIs, Web APIs, and microservice endpoints with focus on scalability, security, and performance
 - Proven ability to design and architect diverse, scalable system types, including Microservices architectures
 - Strong track record in technical team leadership and project delivery
 
@@ -38,6 +39,8 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 - Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, LINQ, CQRS, Event-driven, Kafka, DDD, VSTO, Angular)
 - Improved project delivery and team efficiency through effective performance management and accurate resource estimation
+- Designed and implemented RESTful APIs for document management microservices, ensuring secure inter-service communication and external system integration
+- Developed event-driven APIs using Kafka for asynchronous processing and real-time data synchronization across distributed services  
 - Built a strong engineering team by conducting technical interviews and selecting qualified specialists
 
 ### Moonflat, CTO, 2015/2017
@@ -50,6 +53,8 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 ### EPAM, Senior .NET Developer, 2010/2022
 
 - Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, LINQ, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
+- Architected and developed RESTful Web APIs for e-commerce platforms and third-party system integrations
+- Implemented secure API authentication and authorization mechanisms (OAuth, JWT)
 - Built future talent pipelines by training, mentoring, and interviewing students
 
 ### Avalon, Senior .NET Developer, 2006/2010
