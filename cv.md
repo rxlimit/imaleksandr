@@ -20,14 +20,15 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ## Summary
 
-- 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, LINQ, CQRS, DDD, PowerShell)
+- 19+ years of experience in .NET development (C#, .NET Framework, .NET Core, ASP.NET, EF, LINQ, CQRS, DDD, PowerShell, Docker)
 - Additional experience with Go and Python
-- Cloud: Azure, AWS
+- Cloud: Azure
 - AI tools: Cursor, Claude
 - Database: MS-SQL
 - Frontend: Angular, TypeScript
 - Architecture: Microservices, Event-driven, Clean Architecture
 - Message Brokers: Apache Kafka, RabbitMQ
+- Version control and CI/CD: Git, BitBucket, TeamCity
 - Experience with TDD and automation testing (NUnit, xUnit)
 - Extensive experience designing and implementing RESTful APIs, Web APIs, and microservice endpoints with focus on scalability, security, and performance
 - Proven ability to design and architect diverse, scalable system types, including Microservices architectures
@@ -37,24 +38,27 @@ Senior .NET Developer with 19+ years developing, architecting, and deploying ent
 
 ### RUSAL, Senior .NET Developer, 2022 - Now
 
-- Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, LINQ, CQRS, Event-driven, Kafka, DDD, VSTO, Angular)
+- Delivered a scalable enterprise document management system by leading the development and support of microservices (C#, .NET Framework/.NET Core/.NET, ASP.NET, MSSQL, EF, xUnit, LINQ, CQRS, Event-driven, Kafka, SAGA, MassTransit, DDD, Angular, Docker)
 - Improved project delivery and team efficiency through effective performance management and accurate resource estimation
 - Designed and implemented RESTful APIs for document management microservices, ensuring secure inter-service communication and external system integration
+- Implemented comprehensive API security measures including JWT-based authentication, role-based authorization (RBAC), API rate limiting, and HTTPS enforcement
 - Developed event-driven APIs using Kafka for asynchronous processing and real-time data synchronization across distributed services  
 - Built a strong engineering team by conducting technical interviews and selecting qualified specialists
 
 ### Moonflat, CTO, 2015/2017
 
 - Delivered reliable performance and scalability by designing system architecture and developing core software solutions (C#, ASP.NET, MSSQL, EF, NUnit, jQuery, Bootstrap, Dapper, CQRS, LINQ)
+- Implemented secure Web API endpoints with authentication, authorization, and data encryption for the rental platform
 - Successfully launched a short-term housing rental platform
 - Expanded market presence by establishing business operations and building an effective team
+- Established CI/CD pipelines using BitBucket Pipelines to automate testing and deployment processes
 - Increased customer acquisition through targeted marketing and advertising campaigns
 
 ### EPAM, Senior .NET Developer, 2010/2022
 
 - Developed architecture, design, and various systems/integration solutions/e-commerce (C#, ASP.NET, MSSQL, EF, LINQ, NUnit, jQuery, Bootstrap, WPF, OpenText Platform)
 - Architected and developed RESTful Web APIs for e-commerce platforms and third-party system integrations
-- Implemented secure API authentication and authorization mechanisms (OAuth, JWT)
+- Implemented secure API authentication and authorization mechanisms (OAuth 2.0, JWT), including token refresh strategies and claim-based authorization
 - Built future talent pipelines by training, mentoring, and interviewing students
 
 ### Avalon, Senior .NET Developer, 2006/2010
